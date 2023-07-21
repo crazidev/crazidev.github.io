@@ -863,11 +863,7 @@ button {
 }
 
 .portfolio__img {
-<<<<<<< HEAD
-    width: 265px;
-=======
     width: 405px;
->>>>>>> bf07efb (Fist)
     border-radius: .5rem;
     justify-self: center;
 }
